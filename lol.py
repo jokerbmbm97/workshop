@@ -1,5 +1,5 @@
 
 name=input()
-("hello %s"%name)
+print("HELLO %s"%name)
 
-("Goodbye")
+print("Goodbye")
